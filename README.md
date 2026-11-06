@@ -24,7 +24,7 @@ Builds are on the [Releases](../../releases) page.
 |---|---|---|
 | Linux x86_64 (Debian/Ubuntu) | `naked_<version>_amd64.deb` | `sudo apt install ./naked_<version>_amd64.deb` (needs `libwebkit2gtk-4.1-0`) |
 | macOS (Apple silicon) | `naked_<version>_aarch64.dmg` | Not signed or notarized yet — after copying to Applications, open it once with right‑click → **Open**, or run `xattr -dr com.apple.quarantine /Applications/naked.app` |
-| iPhone · iPad | TestFlight | Beta — ask on the website |
+| iPhone · iPad | [TestFlight](https://testflight.apple.com/join/Y1HaR5gj) | Beta |
 
 Every release lists the SHA‑256 of its files in `SHA256SUMS`.
 
