@@ -18,15 +18,22 @@ Website: **https://naked-cli.cc**
 
 ## Download
 
-Builds are on the [Releases](../../releases) page.
+**Current release: [0.1.0-beta.2](https://github.com/axelbaumlisto/naked/releases/tag/v0.1.0-beta.2)** — 11 Nov 2026
 
-| Platform | File | Notes |
+| Platform | Get it | Notes |
 |---|---|---|
-| Linux x86_64 (Debian/Ubuntu) | `naked_<version>_amd64.deb` | `sudo apt install ./naked_<version>_amd64.deb` (needs `libwebkit2gtk-4.1-0`) |
-| macOS (Apple silicon) | `naked_<version>_aarch64.dmg` | Not signed or notarized yet — after copying to Applications, open it once with right‑click → **Open**, or run `xattr -dr com.apple.quarantine /Applications/naked.app` |
+| macOS (Apple silicon, 12+) | `brew install axelbaumlisto/naked/naked` · [naked-0.1.0-beta.2-mac.dmg](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/naked-0.1.0-beta.2-mac.dmg) | Signed with Developer ID and notarized by Apple. Update: `brew upgrade naked` |
+| Linux x86_64 (Debian/Ubuntu) | [naked_0.1.0-beta.1_amd64.deb](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/naked_0.1.0-beta.1_amd64.deb) | `sudo apt install ./naked_0.1.0-beta.1_amd64.deb` (needs `libwebkit2gtk-4.1-0`); the 0.1.0-beta.2 .deb is on its way |
 | iPhone · iPad | [TestFlight](https://testflight.apple.com/join/Y1HaR5gj) | Beta |
 
 Every release lists the SHA‑256 of its files in `SHA256SUMS`.
+
+### All releases
+
+| Version | Date | Files |
+|---|---|---|
+| [0.1.0-beta.2](https://github.com/axelbaumlisto/naked/releases/tag/v0.1.0-beta.2) | 2026-11-11 | [macOS .dmg (notarized)](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/naked-0.1.0-beta.2-mac.dmg) · [SHA256SUMS](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/SHA256SUMS) |
+| [0.1.0-beta.1](https://github.com/axelbaumlisto/naked/releases/tag/v0.1.0-beta.1) | 2026-11-06 | [macOS .dmg (unsigned)](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/naked_0.1.0-beta.1_aarch64.dmg) · [Linux .deb](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/naked_0.1.0-beta.1_amd64.deb) · [SHA256SUMS](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/SHA256SUMS) |
 
 ## Status
 
