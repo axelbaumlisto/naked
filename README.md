@@ -23,7 +23,7 @@ Website: **https://naked-cli.cc**
 | Platform | Get it | Notes |
 |---|---|---|
 | macOS (Apple silicon, 12+) | `brew install axelbaumlisto/naked/naked` · [naked-0.1.0-beta.2-mac.dmg](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/naked-0.1.0-beta.2-mac.dmg) | Signed with Developer ID and notarized by Apple. Update: `brew upgrade naked` |
-| Linux x86_64 (Debian/Ubuntu) | [naked_0.1.0-beta.1_amd64.deb](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/naked_0.1.0-beta.1_amd64.deb) | `sudo apt install ./naked_0.1.0-beta.1_amd64.deb` (needs `libwebkit2gtk-4.1-0`); the 0.1.0-beta.2 .deb is on its way |
+| Linux x86_64 (Debian/Ubuntu) | [naked_0.1.0-beta.2_amd64.deb](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/naked_0.1.0-beta.2_amd64.deb) | `sudo apt install ./naked_0.1.0-beta.2_amd64.deb` (needs `libwebkit2gtk-4.1-0`) |
 | iPhone · iPad | [TestFlight](https://testflight.apple.com/join/Y1HaR5gj) | Beta |
 
 Every release lists the SHA‑256 of its files in `SHA256SUMS`.
@@ -32,7 +32,7 @@ Every release lists the SHA‑256 of its files in `SHA256SUMS`.
 
 | Version | Date | Files |
 |---|---|---|
-| [0.1.0-beta.2](https://github.com/axelbaumlisto/naked/releases/tag/v0.1.0-beta.2) | 2026-11-11 | [macOS .dmg (notarized)](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/naked-0.1.0-beta.2-mac.dmg) · [SHA256SUMS](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/SHA256SUMS) |
+| [0.1.0-beta.2](https://github.com/axelbaumlisto/naked/releases/tag/v0.1.0-beta.2) | 2026-11-11 | [macOS .dmg (notarized)](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/naked-0.1.0-beta.2-mac.dmg) · [Linux .deb](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/naked_0.1.0-beta.2_amd64.deb) · [SHA256SUMS](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.2/SHA256SUMS) |
 | [0.1.0-beta.1](https://github.com/axelbaumlisto/naked/releases/tag/v0.1.0-beta.1) | 2026-11-06 | [macOS .dmg (unsigned)](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/naked_0.1.0-beta.1_aarch64.dmg) · [Linux .deb](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/naked_0.1.0-beta.1_amd64.deb) · [SHA256SUMS](https://github.com/axelbaumlisto/naked/releases/download/v0.1.0-beta.1/SHA256SUMS) |
 
 ## Status
